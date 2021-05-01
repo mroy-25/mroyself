@@ -3,38 +3,76 @@
 
 # Nothing 
 
->
->
->
-</div>
-<p align="center">
-  <a href="https://github.com/Hexagonz"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-  <a href="https://wa.me/6285751056816">KYAAA ONI CHAN >//< </a>
-</h4>
-</p>
+<details>
+<summary>Touch Me!!</summary>
 
-## CARA INSTALL DI TERMUX
+##
+
+<details>
+<summary>Ingredient/Bahan</summary>
+
 ```bash
-> pkg install nodejs && pkg install git
-> git clone https://github.com/Hexagonz/SELF-HX
-> cd SELF-HX
+> Android Version
+> termux
+> WhatsApp
+> 2 HandPhone
+
+> Laptop Version
+> Gunakan Terminal Git bash Atau sejenisnya
+> Sudah Terinstall Node Js Dan Sudah Ter Add path
+```
+
+</details>
+
+##
+
+<details>
+<summary>Install On Termux</summary>
+
+```bash
+> termux-setup-storage
+(allow it)
+> pkg update -y
+> pkg upgrade -y
+> pkg install git -y
+> git clone https://github.com/sanzorez/sabot
+> cd sabot
+> npm cache clear
 > bash install.sh
-> npm start/node main.js
-```
-## CARA INSTALL DI LAPTOP
-```bash
-> git clone https://github.com/Hexagonz/SELF-HX 
-> cd SELF-HX
-> npm i
-> npm start/node main.js
+> npm audit fix
+> npm start / node index.js
+> scan Qr xd
 ```
 
-# INSTALL
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
+</details>
+
+##
+
+<details><summary>Install On PC/VPS/RDP</summary>
+
+- Download [`libwebp & tutorial`](https://developers.google.com/speed/webp/download)
+- Download [`FFmpeg`](https://ffmpeg.org/download.html) - And Touch Me From [`Tutorial Installing`](http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/)
+- Download [`Wget & tutorial`](http://gnuwin32.sourceforge.net/packages/wget.htm)
+- Download [`tesseract-ocr`](https://tesseract-ocr.github.io/tessdoc/Downloads.html) - And Touch Me From [`Tutorial Installing`](https://emop.tamu.edu/Installing-Tesseract-Windows8)
+- Download [`NodeJS`](https://nodejs.org/en/download/)
+- Download [`Git`](https://git-scm.com/downloads) - And Touch Me From [`Tutorial Installing`](https://phoenixnap.com/kb/how-to-install-git-windows)
+
+##
+
+```bash
+( if that is all done installed / jika  semua sudah terinstall )
+> git clone https://github.com/sanzorez/sabot
+> cd sabot
+> bash install.sh
+> npm start
+> Scan Qr xD
+```
+</details>
+
+</details>
+
+##
+
 
 # PIMTUR
 
